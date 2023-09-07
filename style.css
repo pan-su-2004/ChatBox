@@ -43,3 +43,8 @@ body {
   border-radius: 10px 10px 0 10px;
   background-color: #724ae8;
 }
+.chatbot .incoming p {
+  color: black;
+  background-color: #f2f2f2;
+  border-radius: 10px 10px 10px 0;
+}
